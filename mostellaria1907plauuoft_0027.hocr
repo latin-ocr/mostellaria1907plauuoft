@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mostellaria1907plauuoft_0027.png"; bbox 0 0 2019 3131; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 511 1281 1434 1526">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 511 1281 1434 1526">
+     <span class='ocr_line' id='line_1_1' title="bbox 511 1281 1434 1350; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 511 1284 587 1348; x_wconf 91' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 666 1282 985 1350; x_wconf 82' lang='lat' dir='ltr'>MACCI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1063 1281 1434 1348; x_wconf 84' lang='lat' dir='ltr'>PLAVTI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 607 1458 1357 1526; baseline -0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 607 1458 1357 1526; x_wconf 75' lang='lat' dir='ltr'><strong>MOSTELLARIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 679 1632 1291 1686">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 679 1632 1291 1686">
+     <span class='ocr_line' id='line_1_3' title="bbox 679 1632 1291 1686; baseline -0.007 0"><span class='ocrx_word' id='word_1_5' title='bbox 679 1632 1010 1686; x_wconf 87' lang='lat' dir='ltr'><strong>GRAECA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1051 1637 1291 1684; x_wconf 82' lang='grc' dir='ltr'>ΦΑΣΜΑ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
